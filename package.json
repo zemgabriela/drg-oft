@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vase-github-meno.github.io/drg-helper/",
+  "homepage": "https://zemgabriela.github.io/drg-oft",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
